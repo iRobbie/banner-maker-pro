@@ -45,12 +45,12 @@ If not, [download and install Python here](https://www.python.org/downloads/) an
 ## 🔷 Installation
 
 1️⃣ Clone or download this repository.  
-2️⃣ Place the `banner_maker.py` script somewhere convenient.  
+2️⃣ Place the `final.py` script somewhere convenient.  
 3️⃣ Open a terminal or command prompt in the same folder as the script.  
 4️⃣ Run the script — it will install all required Python libraries if needed.
 
 ```bash
-python banner_maker.py
+python final.py
 ```
 
 On first run, it will also create a workspace folder (`BannerMaker`) and ask you to create or choose a folder with your input images.
